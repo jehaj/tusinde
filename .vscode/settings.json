@@ -1,0 +1,10 @@
+{
+    "makefile.configureOnOpen": true,
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/nikolaj/Projects/tusinde",
+            "binaryPath": "/home/nikolaj/Projects/tusinde/kilo",
+            "binaryArgs": []
+        }
+    ]
+}
